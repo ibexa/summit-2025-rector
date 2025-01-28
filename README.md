@@ -2,6 +2,10 @@
 
 Here you can find materials related to Ibexa Rector talk given during Ibexa Summit 2025 Tech Track.
 
+## Slide Deck
+
+See [IbexaRectorSlideDeck.pdf](./IbexaRectorSlideDeck.pdf).
+
 ## COPYRIGHT
 
 Copyright (C) 1999-2025 Ibexa AS (formerly eZ Systems AS). All rights reserved.
