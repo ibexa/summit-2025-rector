@@ -1,0 +1,12 @@
+{
+    "name": "ibexa/summit-2025-rector",
+    "description": "Materials related to Ibexa Summit 2025 Rector talk",
+    "type": "project",
+    "license": "(GPL-2.0-only or proprietary)",
+    "require": {
+        "php": ">=8.3"
+    },
+    "require-dev": {
+        "ibexa/rector": "4.6.x-dev"
+    }
+}
